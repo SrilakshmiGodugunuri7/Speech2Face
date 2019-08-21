@@ -11,4 +11,4 @@ Abstract:
 
 Working model
 
-![alt text]()
+![alt text](https://github.com/SrilakshmiG1/Speech2Face/blob/master/Screenshot_2019-08-21%201905%2009773%20pdf.png)
